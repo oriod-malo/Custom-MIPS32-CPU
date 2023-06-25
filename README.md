@@ -1,5 +1,5 @@
 # Custom-MIPS32-CPU
-A custom, reduced ISA MIPS32 CPU.
+A custom, reduced ISA MIPS32 CPU, updated from the previous.
 
 ## General Description
 
